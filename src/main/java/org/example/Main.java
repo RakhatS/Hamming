@@ -1,5 +1,6 @@
 package org.example;
 
+// Сапарбаев Рахат СИб37
 
 import java.util.Scanner;
 
